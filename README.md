@@ -2,7 +2,7 @@
     <h1>💫 About Me</h1>
 </div>
 <div align="center">
-    <img align="right" alt="Coding" width="400" src="YOUR_GIF_URL_HERE">
+    <img align="right" alt="Minecraft Gif" width="400" src="[YOUR_GIF_URL_HERE](https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif)">
     <div align="left">
         👋・I'm a 16-year-old Swiss IT student.<br>
         🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>
