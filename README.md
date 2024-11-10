@@ -1,6 +1,11 @@
 <div align="center">
-    <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif" style="margin-top: -200px; margin-bottom: -300px;">
+    <div style="height: 300px; overflow: hidden;">
+        <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif">
+    </div>
 </div>
+
+
+https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif
 
 # 💫 About Me:
 👋・I'm a 16-year-old Swiss IT student.<br>
