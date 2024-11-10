@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif" style="margin-top: -20px; margin-bottom: -20px;">
+    <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif" style="margin-top: -200px; margin-bottom: -300px;">
 </div>
 
 # 💫 About Me:
