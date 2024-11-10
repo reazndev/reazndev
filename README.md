@@ -23,13 +23,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=florianruby&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Connect with me
-
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...&animated=false&hideDiscrim=true)
-
-<div>
-  <a href="mailto:reazn.dev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
-  </a>
-</div>
