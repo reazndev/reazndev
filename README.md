@@ -17,3 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=florianruby&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122)](https://discord.com/users/699913103378350122)
