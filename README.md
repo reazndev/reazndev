@@ -19,8 +19,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/699913103378350122)
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122)](https://discord.com/users/699913103378350122)
+
+
+![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=0f0f0f&borderRadius=30px&idleMessage=Probably%20editing%20or%20coding...&hideTimestamp=true&borderColor=cb6ef0)
