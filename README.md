@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Minecraft Gif" width="400" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif">
+    <img alt="Coding" width="850" height="300" style="object-fit: cover; object-position: center;" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif">
 </div>
 
 # 💫 About Me:
