@@ -18,18 +18,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=florianruby&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=0f0f0f&borderRadius=30px&idleMessage=Probably%20editing%20or%20coding...&hideTimestamp=true&borderColor=cb6ef0)
-
-
 <h2 align="center">Connect with me</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...)](https://discord.com/users/699913103378350122)
+[![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&animated=false&hideDiscrim=true&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...&borderColor=30363d)](https://discord.com/users/699913103378350122)
 
 <p align="center">
   <a href="https://github.com/FlorianRuby">
-    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white&color=1b2932"/>
   </a>
   <a href="mailto:reazn.dev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=DD4B3E"/>
+    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
   </a>
 </p>
