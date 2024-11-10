@@ -7,10 +7,10 @@
 📚・Learning C#, JavaScript, CSS & HTML.<br>
 🧑‍💻・Working on my portfolio website and other fun side projects.
 
+_this is here for testing purposes_
 
 ## 🌐 Socials:
 
-_this is here for testing purposes_
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=...&animated=false&hideDiscrim=true&hideStatus=false)
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&animated=false&hideDiscrim=true&hideActivity=true)
