@@ -20,7 +20,7 @@
 
 ## Connect with me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&animated=false&hideDiscrim=true&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...&borderColor=ffffff33&width=1000px&height=100px&avatarSize=100)](https://discord.com/users/699913103378350122)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...&animated=false&hideDiscrim=true)
 
 <div>
   <a href="https://github.com/FlorianRuby">
