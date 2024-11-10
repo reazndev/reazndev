@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 👋・I'm a 16-year-old Swiss IT student.<br>
-🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>
-🔭・I'm currently building my portfolio website and other fun side projects.
+🌱・Learning C#, JavaScript, CSS & HTML.<br>
+🔭・Building my portfolio website and other fun side projects.
 
 
 ## 🌐 Socials:
