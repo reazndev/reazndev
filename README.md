@@ -1,11 +1,9 @@
-<div align="center">
-    <div style="height: 300px; overflow: hidden;">
-        <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif">
-    </div>
-</div>
-
-
-https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="300" fill="#3498db" />
+  <text x="450" y="150" font-family="Arial" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">
+    900x300 pixels
+  </text>
+</svg>
 
 # 💫 About Me:
 👋・I'm a 16-year-old Swiss IT student.<br>
