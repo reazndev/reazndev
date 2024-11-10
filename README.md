@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=🏠%20wish%20I%20could%20live%20in%20a%20Wong%20Kar...&animated=false&hideDiscrim=true)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=&animated=false&hideDiscrim=true&hideStatus=false)
 
 <div>
   <a href="mailto:reazn.dev@gmail.com">
