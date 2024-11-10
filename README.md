@@ -1,9 +1,11 @@
 <div align="center">
-    <img alt="Coding" width="850" height="300" style="object-fit: cover; object-position: center;" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif">
+    <img alt="Coding" width="850" src="https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif" style="margin-top: -20px; margin-bottom: -20px;">
 </div>
 
 # 💫 About Me:
-👋・I'm a 16-year-old Swiss IT student.<br>🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>🔭・I'm currently building my portfolio website and other fun side projects.
+👋・I'm a 16-year-old Swiss IT student.<br>
+🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>
+🔭・I'm currently building my portfolio website and other fun side projects.
 
 
 ## 🌐 Socials:
