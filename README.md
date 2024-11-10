@@ -15,6 +15,10 @@ _this is here for testing purposes_
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&animated=false&hideDiscrim=true&hideActivity=true)
 
+vercel testing
+<br>
+![Discord Presence](https://better-dp-github-integration.vercel.app/api/699913103378350122)
+
 <div>
   <a href="mailto:reazn.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
