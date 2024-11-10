@@ -12,7 +12,7 @@
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=...&animated=false&hideDiscrim=true&hideStatus=false)
 
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&idleMessage=%20&animated=false&hideDiscrim=true&hideStatus=false)
+![image](https://github.com/user-attachments/assets/ff32317e-fe74-47ea-a7fe-a7e962329287)
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&animated=false&hideDiscrim=true&hideActivity=true)
 
