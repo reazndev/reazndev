@@ -1,9 +1,6 @@
-<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="300" fill="#3498db" />
-  <text x="450" y="150" font-family="Arial" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">
-    900x300 pixels
-  </text>
-</svg>
+<div align="center">
+    <img alt="Coding" width="900" src="Header Gif.gif">
+</div>
 
 # 💫 About Me:
 👋・I'm a 16-year-old Swiss IT student.<br>
