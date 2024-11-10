@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Coding" width="900" src="Header Gif.gif">
+    <img alt="Coding" width="900" src="Header.gif">
 </div>
 
 # 💫 About Me:
