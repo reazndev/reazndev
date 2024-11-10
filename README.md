@@ -18,12 +18,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=florianruby&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianruby&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID)](https://discord.com/users/699913103378350122)
-
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699913103378350122)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122)](https://discord.com/users/699913103378350122)
-
-
 ![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=0f0f0f&borderRadius=30px&idleMessage=Probably%20editing%20or%20coding...&hideTimestamp=true&borderColor=cb6ef0)
+
+
+<div align="center">
+  <h2>Connect with me</h2>
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=0f0f0f&borderRadius=30px)](https://discord.com/users/699913103378350122)
+  
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlorianRuby)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reazn.dev@gmail.com)
+</div>
