@@ -1,6 +1,12 @@
 # 💫 About Me:
-👋・I'm a 16-year-old Swiss IT student.<br>🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>🔭・I'm currently building my portfolio website and other fun side projects.
-
+<div style="display: flex; align-items: top; justify-content: space-between;">
+    <div>
+        👋・I'm a 16-year-old Swiss IT student.<br>
+        🌱・I'm currently learning C#, JavaScript, CSS & HTML.<br>
+        🔭・I'm currently building my portfolio website and other fun side projects.
+    </div>
+    <img align="right" alt="Coding" width="400" src="YOUR_GIF_URL_HERE">
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XqfbF7Sa) 
