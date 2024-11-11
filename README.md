@@ -9,12 +9,13 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=ff0033-9146ff-3da37a)
+![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=f5f7f6-f5f7f6-ef8026-3da37a-911a1a)
 <!--    
-First Value     : 
-Second Value    : Name 2nd color
-Third Value     :
-Fourth Value    :
+First Value     : Name left color
+Second Value    : Name right color
+Third Value     : 
+Fourth Value    : 
+Fifth Value     : 
 -->
 <div>
   <a href="mailto:reazn.dev@gmail.com">
