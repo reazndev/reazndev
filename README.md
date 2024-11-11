@@ -11,6 +11,10 @@
 ## 🌐 Socials:
 ![Discord Presence](https://lanyard.cnrad.dev/api/699913103378350122?theme=dark&bg=1b2932&borderRadius=8px&hideTimestamp=true&showDisplayName=true&animated=false&hideDiscrim=true&hideActivity=true)
 
+
+https://lanyard.kyrie25.dev/api/368399721494216706
+https://lanyard.kyrie25.dev/api/368399721494216706?theme=light
+
 <div>
   <a href="mailto:reazn.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
