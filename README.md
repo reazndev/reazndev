@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s)
+![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6)
 
 <div>
   <a href="mailto:reazn.dev@gmail.com">
