@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-![Discord Presence]([https://lanyard.kyrie25.dev/api/699913103378350122](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=645CBB-A084DC-BFACE2-EBC7E6))
+![Discord Presence]([https://lanyard.kyrie25.dev/api/699913103378350122](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=645CBB-A084DC-BFACE2-EBC7E6)
 
 <div>
   <a href="mailto:reazn.dev@gmail.com">
