@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=FF597B&waveSpotifyColor=3da37a)
+![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=3da37a)
 
 ![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=FF597B&waveSpotifyColor=273849)
 
