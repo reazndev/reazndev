@@ -9,8 +9,13 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=273849-9146ff-3da37a)
-
+![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?gradient=ff0033-9146ff-3da37a)
+<!--    
+First Value     : 
+Second Value    : Name 2nd color
+Third Value     :
+Fourth Value    :
+-->
 <div>
   <a href="mailto:reazn.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
