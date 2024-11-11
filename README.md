@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?showBanner=true)
+![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?showBanner=animated)
 <!--    
 First Value     : Name left color
 Second Value    : Name right color
