@@ -8,9 +8,15 @@
 💻・Working on my portfolio website and other web and API projects. 
 
 
-## 🌐 Socials:
-![Discord Presence](https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6)
+## 📂 Projects:
+I mainly create websites using, occasionally I also experiment with APIs and data visualisation. <br>
+💻・[Portfolio (Old)](https://www.reazn.tech/) <br>
+🎌・[FlagTacToe](https://flagttt-28c2cb0f9891.herokuapp.com/)<br>
+📆・[Daily Games Stats](https://florianruby.github.io/dailies-stats/index.html)
+<br>
 
+## 🌐 Socials:
+<img src="https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6" height="150" alt="Discord Presence">
 <div>
   <a href="mailto:reazn.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
