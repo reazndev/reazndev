@@ -15,7 +15,6 @@ I mainly create websites using, occasionally I also experiment with APIs and dat
 📆・[Daily Games Stats](https://florianruby.github.io/dailies-stats/index.html) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/)
 
-<br>
 
 ## 🌐 Socials:
 <img src="https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6" height="150" alt="Discord Presence">
