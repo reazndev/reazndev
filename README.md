@@ -11,8 +11,8 @@
 ## 📂 Projects:
 I mainly create websites for problems that probably only I have. <br> Occasionally I also experiment with APIs and data visualisation. <br>
 💻・[Portfolio (Old)](https://www.reazn.tech/) <br>
-🎌・[FlagTacToe](https://flagttt-28c2cb0f9891.herokuapp.com/)<br>
-📆・[Daily Games Stats](https://florianruby.github.io/dailies-stats/index.html) <br>
+🎌・[FlagTacToe](https://flagtactoe.reazn.tech)<br>
+📆・[Daily Games Stats](https://dailies.reazn.tech) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/)
 
 
