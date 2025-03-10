@@ -13,7 +13,10 @@ I mainly create websites for problems that probably only I have. <br> Occasional
 💻・[Portfolio (Old)](https://www.reazn.tech/) <br>
 🎌・[FlagTacToe](http://flagtactoe.reazn.tech)<br>
 📆・[Daily Games Stats](https://dailies.reazn.tech) <br>
-📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/)
+📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/) <br>
+
+<em> (Some websites are currently down as I'm switching from <br>cloud hosting using Heroku to local hosting) </em> <br>
+
 
 
 ## 🌐 Socials:
