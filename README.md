@@ -10,7 +10,7 @@
 
 ## 📂 Projects:
 I mainly create websites for problems that probably only I have. <br> Occasionally I also experiment with APIs and data visualisation. <br>
-💻・[Portfolio (Old)](https://www.reazn.tech/) <br>
+💻・[Portfolio (Old)](https://reazn.tech/) <br>
 🎌・[FlagTacToe](http://flagtactoe.reazn.tech)<br>
 📆・[Daily Games Stats](https://dailies.reazn.tech) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/) <br>
