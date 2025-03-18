@@ -3,13 +3,14 @@
 </div>
 
 # 💫 About Me:
-👋・I'm a 17-year-old Swiss IT student.<br>
-📚・Learning C#, Python, JavaScript, CSS, HTML & React.<br>
-💻・Working on my portfolio website and other web and API projects. 
+👋・I'm a 17-year-old Swiss CS student @ IMS Baden.<br>
+📚・Learning C#, Python, JavaScript, TypeScript, CSS, HTML & React.<br>
+🌟・Interested in Web Development, ML, Data Tracking & Data Visualisation. <br>
+💻・Working on a Customizable music profile card website using [LastFM](https://www.last.fm/home).
 
 
 ## 📂 Projects:
-I mainly create websites for problems that probably only I have. <br> Occasionally I also experiment with APIs and data visualisation. <br>
+I love creating websites to tackle those oddly specific problems that only I seem <br>to encounter. Along the way I also experiment with APIs and data visualisation. <br>
 💻・[Portfolio (Old)](https://reazn.tech/) <br>
 🎌・[FlagTacToe](http://flagtactoe.reazn.tech)<br>
 📆・[Daily Games Stats](https://dailies.reazn.tech) <br>
@@ -28,4 +29,9 @@ I mainly create websites for problems that probably only I have. <br> Occasional
 </div>
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,javascript,html,css,react,aws,docker,mysql,git,godot,heroku,postman,raspberrypi,supabase&perline=5)](https://skillicons.dev)
+
+## Future Projects
+- [ ] LastFM data visualisation website with focus on albums
+- [ ] Customizable music profile card website (大家 - dajia.lol)
+- [ ] Online ARG website (early internet graphics)
