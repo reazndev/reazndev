@@ -11,7 +11,7 @@
 
 ## 📂 Projects:
 I love creating websites to tackle those oddly specific problems that only I seem <br>to encounter. Along the way I also experiment with APIs and data visualisation. <br>
-💻・[Portfolio (Old)](https://reazn.tech/) <br>
+💻・[Portfolio](https://reazn.tech/) <br>
 🎌・[FlagTacToe](http://flagtactoe.reazn.tech)<br>
 📆・[Daily Games Stats](https://dailies.reazn.tech) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info/) <br>
