@@ -18,7 +18,7 @@ I love creating websites to tackle those oddly specific problems that only I see
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cs,py,javascript,html,css,react,aws,docker,mysql,git,godot,heroku,postman,raspberrypi,supabase&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,javascript,html,css,react,aws,docker,mysql,git,godot,heroku,cloudflare,raspberrypi,supabase&perline=15)](https://skillicons.dev)
 
 ## 🌐 Contact Me:
 <img src="https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6" height="135" alt="Discord Presence">
