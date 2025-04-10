@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 👋・I'm a 17-year-old Swiss CS student @ IMS Baden.<br>
-📚・Learning C#, Python, Rust, JavaScript & React.<br>
+📚・Learning Rust, Python, C#, JavaScript & React.<br>
 🌟・Interested in Web Development, ML, Data Tracking & Data Visualisation. <br>
 💻・Working on a customizable music profile card website ([Dajia.lol](https://dajia.lol/)) using [LastFM](https://www.last.fm/home).
 
