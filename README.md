@@ -2,6 +2,9 @@
     <img alt="header-gif" width="900" src="Header.gif">
 </div>
 
+[Personal Website](https://reazn.tech) &bull; [My hardware](my_hardware.md) &bull; [Selfhosted Stuff](Selfhosted_stuff.md)
+
+
 # 💫 About Me:
 👋・I'm a 17-year-old Swiss CS student @ IMS Baden.<br>
 📚・Learning Rust, Python, C#, JavaScript & React.<br>
