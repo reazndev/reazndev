@@ -12,20 +12,10 @@ List of hardware I use. (pretty much everything is overkill ik...)
   - 1 TB SSD (really bad one)
   - 1 TB HDD
 
-### Laptop (old)
-I recently bought a Thinkpad and I'm currently trying to sell my HP laptop.
-
-- Model: HP EliteBook 845 G9
-- OS: Win 10 & NixOS
-- CPU: AMD Ryzen 9 Pro 6950HS
-- RAM: 32 GB DDR4
-- Storage: 1TB SSD
-
-### Laptop (new)
-_Hasn't actually arrived yet._
+### Laptop
 
 - Model: Lenovo P1 Gen 3
-- OS: Win 11 & in the future Manjaro
+- OS: Manjaro (Arch based Linux distro) & win 11 (never used it, just incase)
 - CPU: Intel i9-10885H CPU @ 2.40GHz Turbo Boost 5.3GHz
 - RAM: 64 GB DDR4
 - Screen: 15.6' 4k OLED (I'm in love)
@@ -50,6 +40,3 @@ As I'm collecting vinyls and also like having above average audio I listed my au
 - Wireless Headphones: Sennheiser Momentum 4
 
 _(I love them so much, couldn't live without them, however you really need to lower the base to have a good listeing experience)_
-
-
-And yes I use of course don't listen to mp3 files or else I could also just use regular headphones.
