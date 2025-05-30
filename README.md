@@ -22,7 +22,7 @@ I love creating websites to tackle those oddly specific problems that only I see
 
 
 ## 💻 Tech I Use:
-[![My Skills](https://skillicons.dev/icons?i=react,rust,javascript,cs,python,bun,css,postgres,git,cloudflare,raspberrypi,supabase,docker,windows,nix&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,rust,javascript,cs,python,bun,css,html,postgres,git,cloudflare,raspberrypi,supabase,docker,arch&perline=15)](https://skillicons.dev)
 <br> _Thank you Bun, Git, [AHK](https://github.com/FlorianRuby/My-autohotkey-setup) & Cloudflare, for making life liveable._ 🙏
 
 ## 🌐 Contact Me:
