@@ -1,10 +1,21 @@
 # My Hardware
 List of hardware I use. (pretty much everything is overkill ik...)
-## PCs
 
-### Main PC
+### Laptop (using that as my PC)
 
-- OS: Win 11 & NixOS
+- Model: Lenovo P1 Gen 3
+- OS: Manjaro (Arch based Linux distro) & win 11 (never used it, just in case)
+- CPU: Intel i9-10885H CPU @ 2.40GHz Turbo Boost 5.3GHz
+- RAM: 64 GB DDR4
+- Screen: 15.6' 4k OLED (I'm in love)
+- Storage: 1TB SSD
+  - I still have 1 free m2 slot
+
+## Server 
+
+### My old PC
+
+- OS: Ubuntu Server
 - CPU: Intel i7-10700kf
 - GPU: NVIDIA GeForce RTX 3070
 - RAM: 32GB (2 x 16GB) DDR4
@@ -12,15 +23,13 @@ List of hardware I use. (pretty much everything is overkill ik...)
   - 1 TB SSD (really bad one)
   - 1 TB HDD
 
-### Laptop
-
-- Model: Lenovo P1 Gen 3
-- OS: Manjaro (Arch based Linux distro) & win 11 (never used it, just incase)
-- CPU: Intel i9-10885H CPU @ 2.40GHz Turbo Boost 5.3GHz
-- RAM: 64 GB DDR4
-- Screen: 15.6' 4k OLED (I'm in love)
-- Storage: 1TB SSD
-  - I still have 1 free m2 slot
+### Raspberry Pi 3
+- OS: Raspbian GNU/Linux 12 armv7l
+- CPU:BCM 2835 (4 cores @ 1.2GHz)
+- RAM: 1GB DDR3? (could be ddr4 but I doubt it)
+- Storage :
+  - 16GB SD
+  - 1 TB external SSD
 
 
 ## Phone
