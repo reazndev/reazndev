@@ -2,7 +2,7 @@
     <img alt="header-gif" width="900" src="Header.gif">
 </div>
 
-[Personal Website](https://reazn.tech) &bull; [My hardware](my_hardware.md) &bull; [Selfhosted Stuff](selfhosted_stuff.md)
+[Personal Website](https://reazn.tech) &bull; [My hardware](my_hardware.md) &bull; [Server Stuff](https://github.com/florianruby/server)
 
 
 # 💫 About Me:
