@@ -13,7 +13,6 @@
 
 
 ## 📂 Projects:
-I love creating websites to tackle those oddly specific problems that only I seem <br>to encounter. Along the way I also experiment with APIs and data visualisation. <br>
 👀・[Dajia (LastFM Profile Card)](https://dajia.lol) <br>
 💻・[Portfolio](https://reazn.tech/) <br>
 🎌・[FlagTacToe](http://flagtactoe.reazn.tech)<br>
@@ -23,7 +22,7 @@ I love creating websites to tackle those oddly specific problems that only I see
 
 ## 💻 Tech I Use:
 [![My Skills](https://skillicons.dev/icons?i=react,rust,javascript,cs,python,bun,css,html,postgres,git,cloudflare,raspberrypi,supabase,docker,arch&perline=15)](https://skillicons.dev)
-<br> _Thank you Bun, Git, [AHK](https://github.com/FlorianRuby/My-autohotkey-setup) & Cloudflare, for making life liveable._ 🙏
+<br> _Thank you Bun, Git & Cloudflare, for making life liveable._ 🙏
 
 ## 🌐 Contact Me:
 <img src="https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6" height="135" alt="Discord Presence">
