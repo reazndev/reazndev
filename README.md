@@ -18,7 +18,7 @@
 🎌・[FlagTacToe](https://github.com/reazndev/Flag-TTT)<br>
 📆・[Daily Games Stats](https://github.com/reazndev/dailies-stats) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info) <br>
-🤖・[Leurs - Discord Bot](https://doc.leurs.ch) <br>
+🤖・[Leurs - Discord Bot](https://docs.leurs.ch) <br>
 
 
 ## 💻 Tech I Use:
