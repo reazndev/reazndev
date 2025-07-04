@@ -31,11 +31,8 @@
   <a href="mailto:reazn.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
   </a>
-  <a href="https://dajia.lol/reazn">
-    <img src="https://github.com/user-attachments/assets/a1732614-67c2-48a5-821b-110838ade428" height="32" margin-Top="10" alt="dajiaatreazn"/>
-  </a>
 </div>
 
 
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
-[![wakatime](https://wakatime.com/badge/user/abf40d37-7d03-434e-82a8-1ed7f3ceec0f.svg)](https://wakatime.com/@abf40d37-7d03-434e-82a8-1ed7f3ceec0f) (since Jan 2025)
+[![wakatime](https://wakatime.com/badge/user/abf40d37-7d03-434e-82a8-1ed7f3ceec0f.svg)](https://wakatime.com/@abf40d37-7d03-434e-82a8-1ed7f3ceec0f) (in 2025)
