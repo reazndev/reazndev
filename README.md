@@ -2,7 +2,9 @@
     <img alt="header-gif" width="900" src="Header.gif">
 </div>
 
-[Personal Website](https://reazn.tech) &bull; [My hardware](my_hardware.md) &bull; [Server Stuff](https://github.com/florianruby/server) &bull; [Use dajia ;)](https://dajia.lol)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=1b2932)](https://reazn.tech) [![My hardware](https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932)](my_hardware.md) [![Server Stuff](https://img.shields.io/badge/Server%20Stuff-black?style=for-the-badge&color=1b2932)](https://github.com/florianruby/server) [![GMAIL](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&color=1b2932)](mailto:reazn.dev@gmail.com)
+[![PEERLIST](https://img.shields.io/badge/PEERLIST-black?style=for-the-badge&color=1b2932&labelColor=1b2932)](https://peerlist.io/reazn)
+[![Use dajia ;)](https://img.shields.io/badge/Use%20dajia%20%3B-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
 
 
 # 💫 About Me:
@@ -27,12 +29,6 @@
 
 ## 🌐 Contact Me:
 <img src="https://lanyard.kyrie25.dev/api/699913103378350122?waveColor=273849&waveSpotifyColor=273849&animationDuration=3s&gradient=645CBB-A084DC-BFACE2-EBC7E6" height="135" alt="Discord Presence">
-<div>
-  <a href="mailto:reazn.dev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white&color=1b2932"/>
-  </a>
-</div>
-
 
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/abf40d37-7d03-434e-82a8-1ed7f3ceec0f.svg)](https://wakatime.com/@abf40d37-7d03-434e-82a8-1ed7f3ceec0f) (in 2025)
