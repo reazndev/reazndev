@@ -4,7 +4,7 @@
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=1b2932)](https://reazn.tech) [![My hardware](https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932)](my_hardware.md) [![GMAIL](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&color=1b2932)](mailto:reazn.dev@gmail.com)
 [![PEERLIST](https://img.shields.io/badge/PEERLIST-black?style=for-the-badge&color=1b2932&labelColor=1b2932)](https://peerlist.io/reazn)
-[![Use dajia ;)](https://img.shields.io/badge/Use%20dajia%20%3B-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
+[![Use dajia](https://img.shields.io/badge/Use%20dajia%20%3B-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
 
 
 # 💫 About Me:
