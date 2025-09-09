@@ -17,10 +17,9 @@
 ## 📂 Projects:
 👀・[Dajia (LastFM Profile Card)](https://dajia.lol) <br>
 💻・[Portfolio](https://reazn.tech/) <br>
-🎌・[FlagTacToe](https://github.com/reazndev/Flag-TTT)<br>
-📆・[Daily Games Stats](https://github.com/reazndev/dailies-stats) <br>
+⏳・[Hisparallels](https://hisparallels.app) <br>
+🤖・[Leurs - Discord Bot](https://leurs.ch) <br>
 📓・[Habenwirmorgenopl.info](https://habenwirmorgenopl.info) <br>
-🤖・[Leurs - Discord Bot](https://docs.leurs.ch) <br>
 
 
 ## 💻 Tech I Use:
