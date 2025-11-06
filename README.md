@@ -4,7 +4,7 @@
 
 [![Portfolio – find out more about me](https://img.shields.io/badge/Portfolio%20–%20find%20out%20more%20about%20me-black?style=for-the-badge&color=1b2932)](https://reazn.tech)
 [![My hardware](https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932)](my_hardware.md) 
-[![MAIL](https://img.shields.io/badge/MAIL-black?style=for-the-badge&color=1b2932)](mailto:reazn.dev@proton.me)
+[![MAIL](https://img.shields.io/badge/MAIL-black?style=for-the-badge&color=1b2932)](mailto:florian@ruu.by)
 [![Use dajia](https://img.shields.io/badge/Use%20dajia-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
 
 
