@@ -18,7 +18,7 @@
 ・[Portfolio](https://reazn.tech/) <br>
 
 ## 💻 Tech I Use
-[![My Skills](https://skillicons.dev/icons?i=rust,cs,react,arch&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,react,debian,arch&perline=15)](https://skillicons.dev)
 
 ## 📊 Fun Stats
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
