@@ -8,9 +8,9 @@
 
 
 # 💫 About Me
-・17 year-old Swiss CS student<br>
+・18 year-old Swiss CS student<br>
 ・Learning Java, Typescript & Angular<br>
-・Working on [Dajia.lol](https://dajia.lol/) - a customizable music (LastFM) profile card website
+・I made [Dajia.lol](https://dajia.lol/) - a customizable music (LastFM) profile card website
 
 
 ## 📂 Projects
