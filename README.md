@@ -2,7 +2,7 @@
     <img alt="header-gif" width="900" src="Header.gif">
 </div>
 
-[![Portfolio – find out more about me](https://img.shields.io/badge/Portfolio%20–%20find%20out%20more%20about%20me-black?style=for-the-badge&color=1b2932)](https://reazn.tech)
+[![Portfolio – find out more about me](https://img.shields.io/badge/Portfolio%20–%20find%20out%20more%20about%20me-black?style=for-the-badge&color=1b2932)](https://ruu.by)
 [![MAIL](https://img.shields.io/badge/MAIL-black?style=for-the-badge&color=1b2932)](mailto:florian@ruu.by)
 [![Use dajia](https://img.shields.io/badge/Use%20dajia-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
 
@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 ・[Dajia](https://dajia.lol) <br>
-・[Portfolio](https://reazn.tech/) <br>
+・[Portfolio](https://ruu.by/) <br>
 
 ## 💻 Tech I Use
 [![My Skills](https://skillicons.dev/icons?i=rust,react,angular,typescript,java&perline=15)](https://skillicons.dev)
