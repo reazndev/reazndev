@@ -14,7 +14,7 @@
 
 
 ## 📂 Projects
-- [Dajia](https://dajia.lol) <br>
+- [Dajia - customizable music (LastFM) profile card website](https://dajia.lol) <br>
 - [Portfolio](https://ruu.by/) <br>
 - [Purbank - E-Banking solution with mobile authenticator app](https://ebanking.purbank.ch/showcase) <br>
 
