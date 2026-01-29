@@ -8,14 +8,15 @@
 
 
 # 💫 About Me
-・18 year-old Swiss CS student<br>
-・Learning Java, Typescript & Angular<br>
-・I made [Dajia.lol](https://dajia.lol/) - a customizable music (LastFM) profile card website
+- 18 year-old Swiss CS student<br>
+- Learning Java, Typescript & Angular<br>
+- I made [Dajia.lol](https://dajia.lol/) - a customizable music (LastFM) profile card website
 
 
 ## 📂 Projects
-・[Dajia](https://dajia.lol) <br>
-・[Portfolio](https://ruu.by/) <br>
+- [Dajia](https://dajia.lol) <br>
+- [Portfolio](https://ruu.by/) <br>
+- [Purbank - E-Banking solution with mobile authenticator app](https://ebanking.purbank.ch/showcase) <br>
 
 ## 💻 Tech I Use
 [![My Skills](https://skillicons.dev/icons?i=rust,react,angular,typescript,java&perline=15)](https://skillicons.dev)
