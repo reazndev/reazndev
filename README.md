@@ -19,7 +19,7 @@
 - [Purbank - E-Banking solution with mobile authenticator app](https://ebanking.purbank.ch/showcase) <br>
 
 ## 💻 Tech I Use
-[![My Skills](https://skillicons.dev/icons?i=rust,react,angular,typescript,java&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,java&perline=15)](https://skillicons.dev)
 
 ## 📊 Fun Stats
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
