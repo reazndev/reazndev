@@ -24,3 +24,5 @@
 ## 📊 Fun Stats
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/abf40d37-7d03-434e-82a8-1ed7f3ceec0f.svg)](https://wakatime.com/@abf40d37-7d03-434e-82a8-1ed7f3ceec0f)
+
+![panda](https://webpets-flame.vercel.app/generated/panda/black_walk_8fps.gif)
