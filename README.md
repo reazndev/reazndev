@@ -23,9 +23,6 @@
 
 - [See here for more projects](https://ruu.by/projects)
 
-## 💻 Tech I Use
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,java&perline=15)](https://skillicons.dev)
-
 ## 📊 Fun Stats
 ![](https://komarev.com/ghpvc/?username=florianruby&color=blueviolet)
 
