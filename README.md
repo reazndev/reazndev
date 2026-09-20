@@ -8,17 +8,16 @@
 [![Use dajia](https://img.shields.io/badge/Use%20dajia-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
 
 
-# 💫 About Me
+## 💫 About Me
 
-- 18-year-old Swiss application developer
-- I love UX & interactions design
+- Swiss Interaction _and visual_ designer
 - Checkout my own design studio [rubylabs](https://rubylabs.design)
 - I also built [Dajia.lol](https://dajia.lol), a customizable Last.fm music profile card website
 - I daily drive CachyOS + hyprland and love customising everything
 
 ## 📂 Projects
-- [Dajia - customizable biolink site](https://dajia.lol) <br>
-- [Portfolio](https://ruu.by/) <br>
+- [Dajia - customizable biolink site](https://dajia.lol)
+- [Portfolio](https://ruu.by/)
 - [My design studio](https://rubylabs.design)
 
 - [See here for more projects](https://ruu.by/projects)
