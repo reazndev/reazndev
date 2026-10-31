@@ -13,7 +13,7 @@
 - Swiss Interaction _and visual_ designer
 - Checkout my own design studio [rubylabs](https://rubylabs.design)
 - I also built [Dajia.lol](https://dajia.lol), a customizable Last.fm music profile card website
-- I daily drive CachyOS + hyprland and love customising everything
+- I daily drive Arch + hyprland and love customising everything
 
 ## 📂 Projects
 - [Dajia - customizable biolink site](https://dajia.lol)
