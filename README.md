@@ -12,8 +12,8 @@
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-about-dark.svg"><img src="assets/label-about-light.svg" alt="About me" height="26"></picture></h2>
 
 - Swiss interaction _and visual_ designer
-- Check out my own design studio, [rubylabs](https://rubylabs.design)
-- I also built [Dajia.lol](https://dajia.lol), a customizable Last.fm music profile card website
+- Check out my own design studio, <a href="https://rubylabs.design"><img src="assets/rubylabs.png" alt="Rubylabs" height="18" align="absmiddle"></a> [rubylabs](https://rubylabs.design)
+- I also built <a href="https://dajia.lol"><img src="assets/dajia.png" alt="Dajia" height="18" align="absmiddle"></a> [Dajia.lol](https://dajia.lol), a customizable Last.fm music profile card website
 - I daily drive <img src="assets/archlinux.png" alt="Arch Linux" height="18" align="absmiddle"> Arch + <img src="assets/hyprland.png" alt="Hyprland" height="18" align="absmiddle"> Hyprland and love customising everything
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-projects-dark.svg"><img src="assets/label-projects-light.svg" alt="Projects" height="26"></picture></h2>
