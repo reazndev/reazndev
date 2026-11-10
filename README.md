@@ -14,7 +14,7 @@
 - Swiss interaction _and visual_ designer
 - Check out my own design studio, [rubylabs](https://rubylabs.design)
 - I also built [Dajia.lol](https://dajia.lol), a customizable Last.fm music profile card website
-- I daily drive Arch + Hyprland and love customising everything
+- I daily drive <img src="assets/archlinux.svg" alt="Arch Linux" height="18" align="absmiddle"> Arch + <img src="assets/hyprland.svg" alt="Hyprland" height="18" align="absmiddle"> Hyprland and love customising everything
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-projects-dark.svg"><img src="assets/label-projects-light.svg" alt="Projects" height="26"></picture></h2>
 
