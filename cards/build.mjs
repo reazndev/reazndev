@@ -3,7 +3,7 @@
 // files, so text is drawn as outlines and screenshots are embedded.
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import opentype from 'opentype.js';
-import { buttons, cards, kinds, moreCard, sections } from './cards.mjs';
+import { buttons, cards, moreButton, sections } from './cards.mjs';
 
 const here = (path) => new URL(path, import.meta.url);
 
@@ -32,8 +32,6 @@ const themes = {
   },
 };
 
-// The red panel looks the same in both themes, as on the portfolio.
-const studio = { light: '#d0303a', mid: '#a50f18', deep: '#6a0910' };
 
 const STROKE = 3;
 const LABEL_TRACKING = 0.06;
@@ -112,13 +110,13 @@ const rect = ({ x, y, w, h, r, ...attrs }) =>
     .join(' ')}/>`;
 
 /** The portfolio's card: a stroke with a hairline on both sides, around the surface. */
-function shell({ x, y, w, h, r }, theme, surface = theme.surface) {
+function shell({ x, y, w, h, r }, theme) {
   const inner = { x: x + STROKE, y: y + STROKE, w: w - 2 * STROKE, h: h - 2 * STROKE, r: r - STROKE };
   return {
     inner,
     svg:
       rect({ x: x + 0.5, y: y + 0.5, w: w - 1, h: h - 1, r, fill: theme.stroke, stroke: theme.edge }) +
-      rect({ ...inner, fill: surface, stroke: theme.edge }),
+      rect({ ...inner, fill: theme.surface, stroke: theme.edge }),
   };
 }
 
@@ -162,15 +160,6 @@ function caption({ title, description }, box, top, theme) {
   );
 }
 
-/** The label in the card's top left corner, on a pill so it reads over any image. */
-function pill(kind, inner, theme) {
-  const heading = label(kind.label, kind.icon, { x: inner.x + 22, y: inner.y + 28, color: theme.label });
-  return (
-    rect({ x: inner.x + 12, y: inner.y + 12, w: heading.width + 20, h: 24, r: 12, fill: theme.surface, 'fill-opacity': 0.92 }) +
-    heading.svg
-  );
-}
-
 function projectCard(card, theme, mode) {
   const { inner, svg: frame } = shell(cardBox, theme);
   const shot = typeof card.shot === 'string' ? card.shot : card.shot[mode];
@@ -183,24 +172,7 @@ function projectCard(card, theme, mode) {
       rect({ x: inner.x, y: inner.y + CARD.media, w: inner.w, h: inner.h - CARD.media, r: 0, fill: theme.surface }) +
       rect({ x: inner.x, y: inner.y + CARD.media, w: inner.w, h: 1, r: 0, fill: theme.edge }) +
       rect({ ...inner, fill: 'none', stroke: theme.edge }) +
-      pill(kinds[card.kind], inner, theme) +
       caption(card, inner, inner.y + CARD.media, theme),
-  );
-}
-
-/** The closing card: the portfolio's red panel with nothing on it but the caption. */
-function moreCardSvg(theme) {
-  const { inner, svg: frame } = shell(cardBox, theme, 'url(#studio)');
-  return svg(
-    CARD.w,
-    CARD.h,
-    `<radialGradient id="studio" cx="0.5" cy="0" r="1.1"><stop offset="0" stop-color="${studio.light}"/><stop offset="0.55" stop-color="${studio.mid}"/><stop offset="1" stop-color="${studio.deep}"/></radialGradient>` +
-    frame +
-      `<clipPath id="more-panel">${rect({ ...inner, fill: '#fff' })}</clipPath><rect x="${inner.x}" y="${inner.y}" width="${inner.w}" height="${inner.h}" fill="url(#studio)" clip-path="url(#more-panel)"/>` +
-      rect({ x: inner.x, y: inner.y + CARD.media, w: inner.w, h: inner.h - CARD.media, r: 0, fill: theme.surface }) +
-      rect({ ...inner, fill: 'none', stroke: theme.edge }) +
-      pill(kinds.more, inner, theme) +
-      `${caption(moreCard, inner, inner.y + CARD.media, theme)}`,
   );
 }
 
@@ -229,8 +201,7 @@ function section({ label: string, icon: iconName }, theme) {
 
 const files = (mode, theme) => [
   ...cards.map((card) => [card.id === 'dajia' ? 'card-dajia-showcase' : `card-${card.id}`, projectCard(card, theme, mode)]),
-  [`card-${moreCard.id}`, moreCardSvg(theme)],
-  ...buttons.map((item) => [`button-${item.id}`, button(item, theme)]),
+  ...[...buttons, moreButton].map((item) => [`button-${item.id}`, button(item, theme)]),
   ...sections.map((item) => [`label-${item.id}`, section(item, theme)]),
 ];
 
